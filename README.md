@@ -13,3 +13,24 @@ Simple Checkout View |	Streamlined payment and booking confirmation |
 
 # Importance of User-Friendly Design
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
+
+# UI Component Patterns
+Planned Components
+Navbar
+
+# Logo
+Search bar
+User navigation
+Responsive menu
+Property Card
+
+# Property image
+Basic details (price, location, rating)
+Favorite button
+Responsive layout
+Footer
+
+# Site links
+Company information
+Social media links
+Copyright information
