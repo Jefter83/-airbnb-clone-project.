@@ -1,36 +1,37 @@
 # -airbnb-clone-project.
 This project is a full-stack clone of the popular accommodation booking platform AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings. The project will cover frontend development, backend APIs, database design, and deployment.
-# Design Goals
+## Design Goals
 Create intuitive booking flow
 Maintain visual consistency
 Ensure fast loading times
 Prioritize mobile responsiveness
-#Primary Pages
+
+## Primary Pages
 |Page |	Description|
 Property Listing View |Grid display of available properties with filters|
 Listing Detailed View |	Complete property details with images and booking form|
 Simple Checkout View |	Streamlined payment and booking confirmation |
 
-# Importance of User-Friendly Design
+## Importance of User-Friendly Design
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
 
-# UI Component Patterns
+## UI Component Patterns
 Planned Components
 Navbar
 
-# Logo
+## Logo
 Search bar
 User navigation
 Responsive menu
 Property Card
 
-# Property image
+## Property image
 Basic details (price, location, rating)
 Favorite button
 Responsive layout
 Footer
 
-# Site links
+## Site links
 Company information
 Social media links
 Copyright information
@@ -51,7 +52,7 @@ Scrum Master	Facilitates agile processes, removes blockers, organizes meetings
 Planned Components
 Navbar
 
-Logo
+ Logo
 Search bar
 User navigation
 Responsive menu
