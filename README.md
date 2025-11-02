@@ -35,6 +35,7 @@ Company information
 Social media links
 Copyright information
 
+
 ## Project Roles and Responsibilities
 Role	Responsibilities
 Project Manager	Oversees timeline, coordinates team, manages deliverables
